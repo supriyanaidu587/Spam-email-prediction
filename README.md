@@ -61,6 +61,7 @@ The SVM model outperformed Naive Bayes and Decision Tree in terms of accuracy an
 ├── spam_data.csv
 ├── spam_classifier.ipynb / .py
 ├── README.md
+
 🔒 License
 This project is for educational purposes. Feel free to use and modify it for learning or development.
 
